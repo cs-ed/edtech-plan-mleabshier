@@ -1,19 +1,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9165436&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+This plan is going to describe the necessary hardware, software and course objectives for a proposed course in computer science and coding principles.
 
 ## Context
 
 ### Course
 
-Describe your course including the name, description, and grade level
+**AP Computer Science**
+
+This AP Computer Science course introduces the concepts and tools of computer science.  Students will learn principles of computer science as well as design, write and test programs using the programming language Java, to solve problems and create new tools.  This course will prepare students for the AP Computer Science A exam.
+
+This is an elective course and is open to students in 10-12th grade who have passed Integrated Math 1 with a C- or better.
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+This class will be provided as an elective and class size will depend on interest 
+from students.  Class size can be up to 36 students under normal circumstances.  
+Our school does not have the funds to support any additional purchases for this 
+class to begin, so the options will either be to use existing technology or to apply 
+for a grant.  Every student has been issued a Chromebook and while class could be held
+in a lab, software would need to run on Chromebooks to make sure students were able 
+to access it from home.
+This course will have a "class within a class" where students will be able to learn 
+computer science principles at a lower level, without intending to take the AP test.
 
 ## Plan
 
