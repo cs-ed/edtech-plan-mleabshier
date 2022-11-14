@@ -29,20 +29,111 @@ computer science principles at a lower level, without intending to take the AP t
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+**Aeries Gradebook**
+This class will utilize Aeries Gradebook for attendance and grading.  Students, parents 
+and teachers will have access to this so that all parties can keep up to date on grades
+and assignments.
+
+**Google Classroom**
+Google classroom will be used for posting assignments and projects to the students and 
+keeping students up to date on their grades. It will be used for students to communicate 
+with teacher with questions and other communications.  It will be the place where access
+to all other class software will be so that students have one place to go to get links,
+assginments and communication.
+
+**Scratch**
+For intro to coding principles, students will use scratch.mit.edu.  Students will come 
+from a variety of backgrounds and so a few lessons with scratch will help them to see 
+visual feedback for their initial coding efforts.  When text-based coding is introduced
+teacher will do a side-by-side comparison of things like loops and conditional statements
+on Scratch and Java so that students will be able to bridge the gap from their prior
+knowledge to Java.
+
+**Code Workout**
+CodeWorkout.cs.vt.edu will be utilized for the majority of learning and developing 
+different parts of students coding repertoire, with a focus on Java for the first part 
+of the course. As students master Java problets they will begin to expand their 
+understanding to other languages.
+
+**GitHub**
+GitHub will be used for 3 projects per semester where students will create a full 
+program to design a game, solve a problem and/or create an application for personal use.
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+**Teacher Laptop**
+Dell Inspiron, Windows 10 Pro Ed
+Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz   2.21 GHz
+8GB of RAM
+237 GB of storage
+
+**Teacher Viewboard** Virtual Whiteboard
+DHS-Viewboard-1, Windows 10 Pro
+80" screen
+Intel(R) Core(TM) i5-6400 CPU @ 2.70GH 2.71 GHz
+8.00 GB RAM
+77.2 GB storage
+
+**Student Chromebooks** Various, with at least:
+HP Chromebook 11 G4 Education Edition
+CPU: Intel celeron N2840 Bay Trail Dual Core @2.167 GHx
+GPU: Intel HD 4000 Core @ 792MHz
+4GB RAM
+16GB SSD storage
+
+**Network considerations**
+All of the computers are connected to the school wifi, either on the student or staff 
+network.  The wifi is reliable enough and fast enough to accomodate anything, up to
+20-30 students watching videos at one time.
+
+The network will block access to sites based on various characteristics, and the 
+teacher will need to test all of the academic sites that are novel to this course: 
+GitHub, Code Workout and Scratch, to make sure none of them are blocked.  If so, 
+a work order will have to be put in to grant permission to the domain and all of 
+its subdomains.
+
+Student Chromebooks have sufficent RAM for running all the problets and compiling, 
+but they have limited storage capacity so using cloud based technologies was an
+important consideration.
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+**Intro to Coding via Scratch**
+Students will learn something new (ie. variables, loops, conditionals) and then
+they will create a Scratch activity applying that new concept.  Students will start
+with Scratch because not all students will have had any prior experience with coding 
+so the visual introduction will ensure that all students are able to see the
+connections between coding and the resulting actions.
+
+**Transition to Java**
+Once students have mastered the basics of coding, including different types of loops,
+different types of conditionals, and use of variables, students will see a side-by-side
+comparison of a set of code in Scratch and its corresponding code in Java.  This way
+all students will be able to apply their prior block coding knowledge that they have
+developed over the introduction to this course, to the new text-based coding they now 
+are doing in Java.  Each class period will be similar, with students learning something
+new and then doing a problet that helps them apply their knowledge.  As needed, possibly
+on a weekly basis, students will have time in class to finish any assignments from the
+week that they haven't been able to figure out, and students who are finished can lend
+support or explore supplemental assignments to give them an extra challenge.
+
+**Homework**
+Homework will consist of finishing assignments begun in class, with time given
+occasionally to students during class to finish up assignments.  Students should have 
+the challenge of working through problems without immediately reaching for help, in 
+order to create resilient students who know where to look for solutions.  However, 
+too much homework will begin to divide the class between those who have stable home
+lives with internet access at home and those who don't have this consistently.
+
+**Assessments**
+A few times each semester, students will use GitHub to work on a larger project 
+involving a specific prompt, such as creating a game, or solving a problem, or students
+can take the opportunity to create code that would be relevant to them personally or 
+following a current interest of theirs, provided it incorporates all the required
+elements.  Assessment on this will consist of evaluating the finished product, as well
+as observing the students during class.  Grades will be based on their independence in
+designing the overall flow of the code, their ability to seek out answers to problems,
+and their ability to debug their code.
 
 ### Impacts
 
