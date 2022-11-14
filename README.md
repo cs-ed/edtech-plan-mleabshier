@@ -62,14 +62,10 @@ program to design a game, solve a problem and/or create an application for perso
 ### Hardware Specifications
 
 **Teacher Laptop**
-
-Dell Inspiron, Windows 10 Pro Ed
-
-Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz   2.21 GHz
-
-8GB of RAM
-
-237 GB of storage
+-Dell Inspiron, Windows 10 Pro Ed
+-Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz   2.21 GHz
+-8GB of RAM
+-237 GB of storage
 
 **Teacher Viewboard** Virtual Whiteboard
 DHS-Viewboard-1, Windows 10 Pro
