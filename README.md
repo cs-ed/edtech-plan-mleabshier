@@ -21,7 +21,7 @@ Our school does not have the funds to support any additional purchases for this
 class to begin, so the options will either be to use existing technology or to apply 
 for a grant.  Every student has been issued a Chromebook and while class could be held
 in a lab, software would need to run on Chromebooks to make sure students were able 
-to access it from home.
+to access it from home.  
 This course will have a "class within a class" where students will be able to learn 
 computer science principles at a lower level, without intending to take the AP test.
 
@@ -61,25 +61,25 @@ program to design a game, solve a problem and/or create an application for perso
 
 ### Hardware Specifications
 
-**Teacher Laptop**
-- Dell Inspiron, Windows 10 Pro Ed
-- Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz   2.21 GHz
-- 8GB of RAM
-- 237 GB of storage
+**Teacher Laptop**  
+Dell Inspiron, Windows 10 Pro Ed  
+Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz   2.21 GHz  
+8GB of RAM  
+237 GB of storage  
 
-**Teacher Viewboard** Virtual Whiteboard
-- DHS-Viewboard-1, Windows 10 Pro
-- 80" screen
-- Intel(R) Core(TM) i5-6400 CPU @ 2.70GH 2.71 GHz
-- 8.00 GB RAM
-- 77.2 GB storage
+**Teacher Viewboard** Virtual Whiteboard  
+DHS-Viewboard-1, Windows 10 Pro  
+80" screen  
+Intel(R) Core(TM) i5-6400 CPU @ 2.70GH 2.71 GHz  
+8.00 GB RAM  
+77.2 GB storage
 
-**Student Chromebooks** Various, with at least:
-- HP Chromebook 11 G4 Education Edition
-- CPU: Intel celeron N2840 Bay Trail Dual Core @2.167 GHx
-- GPU: Intel HD 4000 Core @ 792MHz
-- 4GB RAM
-- 16GB SSD storage
+**Student Chromebooks** Various, with at least:  
+HP Chromebook 11 G4 Education Edition  
+CPU: Intel celeron N2840 Bay Trail Dual Core @2.167 GHx  
+GPU: Intel HD 4000 Core @ 792MHz  
+4GB RAM  
+16GB SSD storage
 
 **Network considerations**
 All of the computers are connected to the school wifi, either on the student or staff 
