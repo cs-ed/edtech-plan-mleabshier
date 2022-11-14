@@ -68,18 +68,18 @@ program to design a game, solve a problem and/or create an application for perso
 - 237 GB of storage
 
 **Teacher Viewboard** Virtual Whiteboard
-DHS-Viewboard-1, Windows 10 Pro
-80" screen
-Intel(R) Core(TM) i5-6400 CPU @ 2.70GH 2.71 GHz
-8.00 GB RAM
-77.2 GB storage
+- DHS-Viewboard-1, Windows 10 Pro
+- 80" screen
+- Intel(R) Core(TM) i5-6400 CPU @ 2.70GH 2.71 GHz
+- 8.00 GB RAM
+- 77.2 GB storage
 
 **Student Chromebooks** Various, with at least:
-HP Chromebook 11 G4 Education Edition
-CPU: Intel celeron N2840 Bay Trail Dual Core @2.167 GHx
-GPU: Intel HD 4000 Core @ 792MHz
-4GB RAM
-16GB SSD storage
+- HP Chromebook 11 G4 Education Edition
+- CPU: Intel celeron N2840 Bay Trail Dual Core @2.167 GHx
+- GPU: Intel HD 4000 Core @ 792MHz
+- 4GB RAM
+- 16GB SSD storage
 
 **Network considerations**
 All of the computers are connected to the school wifi, either on the student or staff 
