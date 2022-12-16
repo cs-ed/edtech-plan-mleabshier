@@ -137,7 +137,21 @@ and their ability to debug their code.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+This class will be taught in person, so the technology used will be the technology that 
+students and teachers are using to learn, and grade work, instead of technology to primarily
+teach or communicate.  These technologies will help all students learn because of the feedback.
+The technology gives students feedback so they can immediately see and correct their mistakes
+which is a great method to make sure that they are able to be as self-reflective and growth
+minded as they want to be.  The technology will also help students because we will be learning
+about how to find solutions from each other and across the internet.  Students can access this
+information in whatever language they choose, which can help our Spanish ELs that we have in
+our school, and also the high number of foreign exchange students that we get from all over
+the world.
+
+In order to create a resilient class, we will spend some time learning about copyright,
+which will help students in all their classes, but also we will focus on the learning and 
+each person's contribution.  Of course in computer science there is an element of borrowing 
+ideas from others, but students be taught to evaluate their learning so that they can focus 
+on what they brought to the project, instead of on completion.  To that end, a major part of 
+their grade will have to be focused on what they learned and what they can do with it, 
+instead of focusing on getting the task completely done.
