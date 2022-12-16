@@ -148,6 +148,14 @@ information in whatever language they choose, which can help our Spanish ELs tha
 our school, and also the high number of foreign exchange students that we get from all over
 the world.
 
+Other areas of inclusivity will involve making sure that students have access to school wifi
+and devices so that they can utilize those outside of class time to finish projects if they 
+don't have sufficient access at home.  One of the main ways to help overcome the stigma that 
+computer science is for males, will be the fact that it's being taught by a female teacher, 
+but also we will focus on our recruiting during registration by focusing on all the things 
+that computer science can do in arts, sciences, and even leisure in order to help attract
+a balanced population.
+
 In order to create a resilient class, we will spend some time learning about copyright,
 which will help students in all their classes, but also we will focus on the learning and 
 each person's contribution.  Of course in computer science there is an element of borrowing 
