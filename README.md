@@ -151,7 +151,7 @@ the world.
 In order to create a resilient class, we will spend some time learning about copyright,
 which will help students in all their classes, but also we will focus on the learning and 
 each person's contribution.  Of course in computer science there is an element of borrowing 
-ideas from others, but students be taught to evaluate their learning so that they can focus 
+ideas from others, but students will be taught to evaluate their learning so that they can focus 
 on what they brought to the project, instead of on completion.  To that end, a major part of 
 their grade will have to be focused on what they learned and what they can do with it, 
 instead of focusing on getting the task completely done.
